@@ -1,1 +1,3 @@
-helo - this is a new dbt project to analyze sbti data
+hello - this is a new dbt project to analyze sbti data
+
+This is the second line
